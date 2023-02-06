@@ -149,5 +149,5 @@ function payment_processing_data()
 //CUSTOM CODE END HERE	
 }
 ```
-##Step3: In function file  add_action( "wp_ajax_{your_function_name}",'your function name' )
+## Step3: In function file  add_action( "wp_ajax_{your_function_name}",'your function name' )
 ## Step4: Action(In ajax code (jQuery)) Name and function name in function file are same.
